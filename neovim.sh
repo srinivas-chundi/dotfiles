@@ -1,5 +1,5 @@
 #Change this PATH as per your git clone path
-DOT_FILES_PATH=$HOME/workspace/src/github.com/vasu-msbits/dotfiles
+DOT_FILES_PATH=$HOME/workspace/src/github.com/srinivas-chundi/dotfiles
 
 cd $HOME
 mkdir -p $HOME/.config/nvim
